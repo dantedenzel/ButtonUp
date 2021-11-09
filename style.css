@@ -1,0 +1,17 @@
+.search {
+    color: #47f7bc;
+    float:inline-end
+    }
+.plus {
+    color:#47f7bc;
+    border-radius: 50%
+}
+.create {
+    color: ghostwhite;
+    background-color: blue;
+    box-shadow: 10px 5px 5px black;
+}
+.create,.plus,.search { */
+    padding: 15px 15px;
+    margin: 15px 15px;
+}
